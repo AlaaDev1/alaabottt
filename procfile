@@ -1,2 +1,1 @@
-node Broadcast.js
-pause
+worker: node Broadcast.js
